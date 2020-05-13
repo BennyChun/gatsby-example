@@ -16,18 +16,19 @@ const IndexPage = () => {
                 </p>
                 <p>
                     There isn't much on this website, except for me playing around with some of Gatsby's features such as
-                    <ul>
-                        <li>
-                            Exploring how page routing works
-                        </li>
-                        <li>
-                            Exploring how to dynamically render pages
-                        </li>
-                        <li>
-                            Integrate Gatsby with a CMS
-                        </li>
-                    </ul>
                 </p>
+                <ul>
+                    <li>
+                        Exploring how page routing works
+                    </li>
+                    <li>
+                        Exploring how to dynamically render pages
+                    </li>
+                    <li>
+                        Integrate Gatsby with a CMS
+                    </li>
+                </ul>
+
                 <p>So that's about it, you might want to consider exploring the link below :)</p>
                 <p><a href='https://www.google.com' target='_blank'>Infinite Knowledge</a></p>
             </Layout>

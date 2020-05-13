@@ -7,8 +7,8 @@ const AboutMe = () => {
         <div>
             <Layout>
                 <Head title="About Me"/>
-                <h1>This is my about page</h1>
-                <p>Im trying to learn gatsby</p>
+                <h2>Who am I?</h2>
+                <p>A wandering soul</p>
             </Layout>
         </div>
     )
